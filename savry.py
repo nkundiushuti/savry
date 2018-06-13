@@ -52,3 +52,6 @@ df['score']=df['full_score']>=20
 df.score.value_counts()
 
 df = df.rename(index=str, columns={"id": "entity_id","age_group": "age_cat","foreigner": "race"})
+df_temp = df[['entity_id', 'score', 'label_value', 'race', 'sex', 'age_cat']]
+
+df.to_csv(os.path.join('dat','savry_for_aequitas.csv'), index=False)
