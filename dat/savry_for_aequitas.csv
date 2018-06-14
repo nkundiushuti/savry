@@ -1,0 +1,856 @@
+entity_id,score,label_value,race,sex,age_cat
+691,True,True,Espanyol,Home,14 i 15 anys
+956,True,True,Espanyol,Dona,14 i 15 anys
+2560,True,True,Magrib,Home,14 i 15 anys
+2018,True,True,Magrib,Home,14 i 15 anys
+1650,True,True,Espanyol,Home,16 i 17 anys
+4587,True,True,Espanyol,Home,16 i 17 anys
+449,True,True,Espanyol,Home,14 i 15 anys
+1613,False,True,Espanyol,Home,16 i 17 anys
+1132,True,True,Magrib,Home,14 i 15 anys
+925,True,True,Espanyol,Home,16 i 17 anys
+1703,False,True,Magrib,Home,16 i 17 anys
+1014,True,True,Magrib,Home,14 i 15 anys
+1638,False,True,Magrib,Home,16 i 17 anys
+3212,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+1458,True,True,Espanyol,Home,16 i 17 anys
+526,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+3544,False,True,Espanyol,Home,16 i 17 anys
+1205,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+2418,True,True,Espanyol,Home,14 i 15 anys
+3129,False,True,Espanyol,Home,14 i 15 anys
+39,True,True,Espanyol,Home,16 i 17 anys
+1312,False,True,Espanyol,Home,14 i 15 anys
+4241,False,True,Espanyol,Home,16 i 17 anys
+2514,True,True,Espanyol,Home,16 i 17 anys
+2163,True,True,Magrib,Home,16 i 17 anys
+2745,True,True,Espanyol,Home,16 i 17 anys
+4088,False,True,Espanyol,Dona,16 i 17 anys
+670,False,True,Espanyol,Home,14 i 15 anys
+501,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+4147,True,True,Centre i Sud Amèrica,Dona,16 i 17 anys
+2090,True,True,Centre i Sud Amèrica,Home,14 i 15 anys
+3749,True,True,Espanyol,Home,16 i 17 anys
+790,True,True,Espanyol,Home,16 i 17 anys
+1535,True,True,Espanyol,Home,16 i 17 anys
+3141,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+3516,True,True,Magrib,Home,16 i 17 anys
+4208,True,True,Magrib,Home,14 i 15 anys
+246,False,True,Magrib,Home,14 i 15 anys
+4667,True,True,Magrib,Home,16 i 17 anys
+1144,True,True,Centre i Sud Amèrica,Home,14 i 15 anys
+3674,True,True,Centre i Sud Amèrica,Home,14 i 15 anys
+1808,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+3765,True,True,Espanyol,Home,16 i 17 anys
+2351,True,True,Magrib,Home,16 i 17 anys
+3773,True,True,Magrib,Home,16 i 17 anys
+2633,True,True,Magrib,Home,16 i 17 anys
+3230,True,True,Centre i Sud Amèrica,Home,14 i 15 anys
+3967,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+204,True,True,Espanyol,Home,16 i 17 anys
+3556,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+2581,True,True,Magrib,Home,14 i 15 anys
+3158,True,True,Magrib,Home,14 i 15 anys
+2614,False,True,Centre i Sud Amèrica,Home,14 i 15 anys
+1853,True,True,Altres,Home,14 i 15 anys
+2420,True,True,Espanyol,Home,16 i 17 anys
+3057,False,True,Magrib,Home,16 i 17 anys
+2073,False,True,Espanyol,Home,16 i 17 anys
+2671,False,True,Centre i Sud Amèrica,Home,14 i 15 anys
+3569,True,True,Espanyol,Dona,14 i 15 anys
+4425,True,True,Magrib,Home,14 i 15 anys
+3334,True,True,Magrib,Home,14 i 15 anys
+4441,True,True,Magrib,Home,14 i 15 anys
+4645,False,True,Espanyol,Home,14 i 15 anys
+2436,True,True,Espanyol,Home,16 i 17 anys
+4101,False,True,Magrib,Home,16 i 17 anys
+4670,True,True,Espanyol,Home,14 i 15 anys
+2378,False,True,Magrib,Home,14 i 15 anys
+1066,True,True,Espanyol,Home,16 i 17 anys
+3326,False,True,Centre i Sud Amèrica,Home,14 i 15 anys
+366,True,True,Espanyol,Home,16 i 17 anys
+2815,True,True,Magrib,Home,16 i 17 anys
+3699,False,True,Magrib,Home,16 i 17 anys
+387,True,True,Magrib,Home,16 i 17 anys
+4758,True,True,Magrib,Home,16 i 17 anys
+1043,True,True,Espanyol,Home,14 i 15 anys
+1368,False,True,Espanyol,Home,14 i 15 anys
+3669,True,True,Centre i Sud Amèrica,Home,14 i 15 anys
+44,True,True,Espanyol,Home,16 i 17 anys
+2029,True,True,Europa,Home,16 i 17 anys
+3733,True,True,Magrib,Home,16 i 17 anys
+2864,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+3513,False,True,Espanyol,Home,14 i 15 anys
+1399,True,True,Espanyol,Home,16 i 17 anys
+2965,False,True,Magrib,Home,16 i 17 anys
+432,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+1140,True,True,Espanyol,Dona,16 i 17 anys
+4646,False,True,Magrib,Home,16 i 17 anys
+4787,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+4731,False,True,Magrib,Home,16 i 17 anys
+4778,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+4107,True,True,Magrib,Home,16 i 17 anys
+3982,False,True,Espanyol,Home,14 i 15 anys
+1767,True,True,Espanyol,Home,14 i 15 anys
+3049,False,True,Magrib,Home,16 i 17 anys
+3088,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+2085,True,True,Magrib,Home,16 i 17 anys
+4557,False,True,Espanyol,Home,16 i 17 anys
+3696,False,True,Espanyol,Home,16 i 17 anys
+252,False,True,Espanyol,Home,14 i 15 anys
+1403,True,True,Europa,Home,14 i 15 anys
+1739,False,True,Magrib,Home,16 i 17 anys
+2235,True,True,Magrib,Home,14 i 15 anys
+4766,False,True,Espanyol,Home,16 i 17 anys
+3010,False,True,Magrib,Home,16 i 17 anys
+3635,True,True,Espanyol,Home,14 i 15 anys
+4134,False,True,Espanyol,Home,16 i 17 anys
+817,True,True,Espanyol,Home,14 i 15 anys
+4295,True,True,Europa,Dona,16 i 17 anys
+3824,False,True,Altres,Home,14 i 15 anys
+2563,False,True,Espanyol,Home,16 i 17 anys
+2515,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+4707,True,True,Centre i Sud Amèrica,Home,14 i 15 anys
+3936,True,True,Espanyol,Home,16 i 17 anys
+2773,True,True,Espanyol,Home,16 i 17 anys
+1173,False,True,Espanyol,Home,16 i 17 anys
+2038,True,True,Magrib,Home,16 i 17 anys
+2640,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+1514,False,True,Magrib,Home,14 i 15 anys
+4749,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+4802,False,True,Espanyol,Home,14 i 15 anys
+1487,False,True,Espanyol,Home,14 i 15 anys
+4689,True,True,Espanyol,Home,16 i 17 anys
+1476,False,True,Espanyol,Home,16 i 17 anys
+2500,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+4518,True,True,Espanyol,Home,16 i 17 anys
+295,False,True,Espanyol,Home,14 i 15 anys
+2066,True,True,Magrib,Home,14 i 15 anys
+1300,True,True,Europa,Home,16 i 17 anys
+2329,True,True,Espanyol,Home,16 i 17 anys
+2447,True,True,Espanyol,Home,16 i 17 anys
+848,True,True,Espanyol,Home,16 i 17 anys
+2604,False,True,Magrib,Home,16 i 17 anys
+3884,True,True,Magrib,Home,14 i 15 anys
+1911,True,True,Espanyol,Home,16 i 17 anys
+4539,True,True,Centre i Sud Amèrica,Home,14 i 15 anys
+674,True,True,Espanyol,Home,14 i 15 anys
+3532,True,True,Centre i Sud Amèrica,Home,14 i 15 anys
+4564,False,True,Espanyol,Home,16 i 17 anys
+885,True,True,Centre i Sud Amèrica,Home,14 i 15 anys
+407,False,True,Espanyol,Home,16 i 17 anys
+1398,False,True,Magrib,Home,16 i 17 anys
+396,False,True,Espanyol,Home,14 i 15 anys
+1601,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+1253,True,True,Espanyol,Home,16 i 17 anys
+635,True,True,Magrib,Home,16 i 17 anys
+2348,False,True,Magrib,Home,16 i 17 anys
+1451,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+3203,True,True,Espanyol,Home,16 i 17 anys
+4623,False,True,Europa,Home,16 i 17 anys
+2327,True,True,Espanyol,Dona,14 i 15 anys
+609,False,True,Espanyol,Home,16 i 17 anys
+2743,False,True,Espanyol,Dona,16 i 17 anys
+3386,False,True,Magrib,Home,14 i 15 anys
+2354,True,True,Centre i Sud Amèrica,Home,14 i 15 anys
+3435,True,True,Espanyol,Home,14 i 15 anys
+3449,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+425,False,True,Magrib,Home,16 i 17 anys
+2190,True,True,Espanyol,Home,14 i 15 anys
+2677,True,True,Magrib,Home,14 i 15 anys
+4058,False,True,Magrib,Home,14 i 15 anys
+1698,False,True,Magrib,Home,14 i 15 anys
+388,False,True,Centre i Sud Amèrica,Home,14 i 15 anys
+4384,True,True,Magrib,Home,16 i 17 anys
+3395,True,True,Magrib,Home,16 i 17 anys
+1206,True,True,Espanyol,Dona,14 i 15 anys
+3391,False,True,Magrib,Home,14 i 15 anys
+2750,False,True,Espanyol,Home,16 i 17 anys
+4522,False,True,Espanyol,Home,14 i 15 anys
+2028,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+590,False,True,Espanyol,Home,16 i 17 anys
+1795,True,True,Espanyol,Home,16 i 17 anys
+4818,False,True,Espanyol,Home,14 i 15 anys
+4340,False,True,Espanyol,Home,14 i 15 anys
+4712,False,True,Europa,Home,16 i 17 anys
+640,False,True,Espanyol,Home,14 i 15 anys
+4614,False,True,Espanyol,Home,16 i 17 anys
+836,False,True,Espanyol,Home,16 i 17 anys
+915,True,True,Espanyol,Home,16 i 17 anys
+748,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+4470,True,True,Espanyol,Home,14 i 15 anys
+438,True,True,Europa,Dona,16 i 17 anys
+4607,True,True,Espanyol,Home,16 i 17 anys
+1617,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+1624,False,True,Magrib,Home,14 i 15 anys
+2713,False,True,Espanyol,Home,16 i 17 anys
+4642,False,True,Europa,Dona,16 i 17 anys
+2201,False,True,Espanyol,Home,16 i 17 anys
+891,True,True,Centre i Sud Amèrica,Home,14 i 15 anys
+1775,False,True,Espanyol,Home,14 i 15 anys
+4396,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+4751,True,True,Centre i Sud Amèrica,Home,14 i 15 anys
+2043,True,True,Europa,Dona,16 i 17 anys
+2934,False,True,Magrib,Home,14 i 15 anys
+1047,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+4572,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+3945,True,True,Espanyol,Home,16 i 17 anys
+3903,False,True,Espanyol,Home,16 i 17 anys
+3794,False,True,Espanyol,Home,16 i 17 anys
+1001,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+363,True,True,Espanyol,Home,16 i 17 anys
+1570,False,True,Espanyol,Home,14 i 15 anys
+1224,True,True,Espanyol,Dona,16 i 17 anys
+4170,False,True,Espanyol,Home,16 i 17 anys
+127,True,True,Espanyol,Home,16 i 17 anys
+2525,True,True,Magrib,Home,16 i 17 anys
+319,False,True,Espanyol,Home,16 i 17 anys
+211,False,True,Espanyol,Home,14 i 15 anys
+3727,False,True,Espanyol,Home,16 i 17 anys
+1537,False,True,Espanyol,Home,16 i 17 anys
+2276,False,True,Espanyol,Home,14 i 15 anys
+460,False,True,Espanyol,Dona,14 i 15 anys
+2155,True,True,Magrib,Home,16 i 17 anys
+1520,False,True,Espanyol,Home,16 i 17 anys
+395,False,True,Espanyol,Home,14 i 15 anys
+4698,False,True,Espanyol,Home,14 i 15 anys
+4005,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+2251,False,True,Espanyol,Home,14 i 15 anys
+3231,False,True,Espanyol,Home,14 i 15 anys
+3202,True,True,Magrib,Home,16 i 17 anys
+2402,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+1016,False,True,Magrib,Home,16 i 17 anys
+2599,False,True,Espanyol,Home,16 i 17 anys
+3501,False,True,Espanyol,Dona,14 i 15 anys
+3110,False,True,Magrib,Home,16 i 17 anys
+3731,False,True,Espanyol,Home,16 i 17 anys
+3190,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+753,False,True,Espanyol,Home,14 i 15 anys
+3689,False,True,Magrib,Home,14 i 15 anys
+3825,False,True,Magrib,Home,14 i 15 anys
+4293,False,True,Espanyol,Home,16 i 17 anys
+2022,False,True,Magrib,Home,14 i 15 anys
+488,False,True,Espanyol,Home,14 i 15 anys
+3219,False,True,Espanyol,Dona,14 i 15 anys
+1868,False,True,Magrib,Home,16 i 17 anys
+1615,False,True,Magrib,Home,16 i 17 anys
+2998,False,True,Centre i Sud Amèrica,Home,14 i 15 anys
+812,False,True,Espanyol,Home,14 i 15 anys
+424,False,True,Espanyol,Home,16 i 17 anys
+3379,True,False,Espanyol,Dona,16 i 17 anys
+2109,True,False,Magrib,Home,16 i 17 anys
+426,True,False,Espanyol,Home,14 i 15 anys
+1081,True,False,Europa,Home,16 i 17 anys
+1234,True,False,Europa,Dona,16 i 17 anys
+380,False,True,Espanyol,Home,14 i 15 anys
+3859,True,False,Espanyol,Dona,14 i 15 anys
+4479,True,False,Espanyol,Home,16 i 17 anys
+2783,False,True,Espanyol,Home,16 i 17 anys
+4666,True,False,Espanyol,Home,16 i 17 anys
+846,False,False,Espanyol,Home,16 i 17 anys
+2805,True,False,Espanyol,Dona,14 i 15 anys
+698,False,False,Espanyol,Home,16 i 17 anys
+4836,True,True,Espanyol,Dona,16 i 17 anys
+2822,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+4242,False,False,Magrib,Dona,16 i 17 anys
+1761,True,True,Espanyol,Home,14 i 15 anys
+2294,True,False,Espanyol,Home,14 i 15 anys
+1891,True,False,Espanyol,Dona,16 i 17 anys
+2995,False,False,Espanyol,Home,16 i 17 anys
+433,True,False,Magrib,Home,16 i 17 anys
+3943,True,False,Espanyol,Home,16 i 17 anys
+2326,True,False,Magrib,Home,16 i 17 anys
+3935,True,False,Espanyol,Home,14 i 15 anys
+4626,True,False,Espanyol,Home,16 i 17 anys
+4226,True,False,Espanyol,Home,16 i 17 anys
+2492,True,False,Espanyol,Dona,16 i 17 anys
+4752,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4,True,False,Magrib,Home,16 i 17 anys
+335,True,False,Espanyol,Home,16 i 17 anys
+417,False,False,Espanyol,Dona,16 i 17 anys
+1974,True,False,Magrib,Home,16 i 17 anys
+4361,True,False,Espanyol,Home,14 i 15 anys
+1995,True,False,Magrib,Dona,14 i 15 anys
+1033,True,False,Espanyol,Home,16 i 17 anys
+1883,True,False,Espanyol,Home,16 i 17 anys
+3389,True,False,Espanyol,Home,16 i 17 anys
+458,False,False,Espanyol,Home,16 i 17 anys
+685,False,False,Espanyol,Dona,16 i 17 anys
+4793,True,False,Magrib,Home,16 i 17 anys
+4122,True,False,Espanyol,Home,16 i 17 anys
+3866,True,False,Magrib,Home,16 i 17 anys
+2575,False,False,Magrib,Home,16 i 17 anys
+2630,True,False,Espanyol,Home,14 i 15 anys
+2583,True,False,Magrib,Home,14 i 15 anys
+3754,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+517,True,False,Altres,Home,16 i 17 anys
+4565,True,False,Espanyol,Home,16 i 17 anys
+2936,False,False,Espanyol,Dona,16 i 17 anys
+2448,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4810,True,False,Altres,Home,16 i 17 anys
+1587,True,False,Espanyol,Home,16 i 17 anys
+280,True,False,Espanyol,Home,16 i 17 anys
+1216,True,False,Espanyol,Home,16 i 17 anys
+726,True,False,Magrib,Home,16 i 17 anys
+264,False,False,Magrib,Home,16 i 17 anys
+3524,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+3412,True,True,Espanyol,Home,14 i 15 anys
+320,True,False,Magrib,Home,16 i 17 anys
+4314,False,False,Espanyol,Home,14 i 15 anys
+2616,False,False,Espanyol,Home,14 i 15 anys
+2318,True,False,Espanyol,Dona,16 i 17 anys
+4486,False,False,Espanyol,Dona,16 i 17 anys
+4067,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+2854,True,True,Centre i Sud Amèrica,Home,14 i 15 anys
+3842,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+852,False,False,Espanyol,Home,16 i 17 anys
+2374,True,False,Magrib,Home,16 i 17 anys
+4125,True,False,Magrib,Home,16 i 17 anys
+2170,True,False,Espanyol,Home,16 i 17 anys
+2538,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+3861,True,False,Espanyol,Home,14 i 15 anys
+1087,True,False,Espanyol,Home,16 i 17 anys
+2159,True,False,Espanyol,Home,14 i 15 anys
+1505,True,False,Espanyol,Dona,14 i 15 anys
+1510,True,False,Espanyol,Home,16 i 17 anys
+1367,True,False,Espanyol,Home,16 i 17 anys
+3601,False,False,Espanyol,Dona,16 i 17 anys
+3417,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4579,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+786,True,False,Espanyol,Home,14 i 15 anys
+1268,True,False,Espanyol,Dona,14 i 15 anys
+2392,True,False,Magrib,Home,16 i 17 anys
+3728,True,False,Magrib,Home,16 i 17 anys
+4619,False,False,Espanyol,Home,16 i 17 anys
+2457,False,False,Espanyol,Home,16 i 17 anys
+4373,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4635,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+3210,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+34,True,False,Espanyol,Dona,14 i 15 anys
+984,False,False,Espanyol,Home,16 i 17 anys
+1521,True,True,Espanyol,Home,16 i 17 anys
+940,False,False,Espanyol,Home,14 i 15 anys
+950,True,True,Espanyol,Home,14 i 15 anys
+911,True,False,Magrib,Home,16 i 17 anys
+4440,False,False,Espanyol,Home,16 i 17 anys
+4006,False,False,Magrib,Home,16 i 17 anys
+47,True,False,Centre i Sud Amèrica,Home,14 i 15 anys
+471,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+3587,True,False,Espanyol,Home,14 i 15 anys
+1464,True,False,Espanyol,Home,14 i 15 anys
+2890,False,False,Espanyol,Home,16 i 17 anys
+4072,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+3380,True,False,Espanyol,Home,14 i 15 anys
+3834,False,False,Espanyol,Home,14 i 15 anys
+3195,True,False,Espanyol,Home,14 i 15 anys
+2314,True,False,Europa,Home,16 i 17 anys
+1223,False,True,Centre i Sud Amèrica,Home,14 i 15 anys
+4216,True,False,Espanyol,Home,16 i 17 anys
+645,False,False,Espanyol,Home,16 i 17 anys
+223,True,False,Espanyol,Home,16 i 17 anys
+1239,False,False,Espanyol,Home,16 i 17 anys
+2461,False,False,Espanyol,Dona,16 i 17 anys
+63,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+1866,True,False,Espanyol,Home,16 i 17 anys
+689,True,False,Espanyol,Home,16 i 17 anys
+4347,False,False,Espanyol,Home,16 i 17 anys
+238,False,False,Magrib,Home,14 i 15 anys
+3315,True,True,Espanyol,Home,14 i 15 anys
+4621,True,False,Espanyol,Home,16 i 17 anys
+631,True,False,Espanyol,Home,16 i 17 anys
+4648,False,False,Espanyol,Home,16 i 17 anys
+4329,False,False,Magrib,Home,16 i 17 anys
+1896,False,False,Espanyol,Home,16 i 17 anys
+2950,True,False,Espanyol,Home,14 i 15 anys
+4190,False,False,Espanyol,Home,14 i 15 anys
+979,False,False,Espanyol,Home,16 i 17 anys
+96,False,False,Centre i Sud Amèrica,Dona,16 i 17 anys
+1176,False,False,Espanyol,Home,16 i 17 anys
+1938,False,True,Espanyol,Home,16 i 17 anys
+4081,False,False,Espanyol,Home,16 i 17 anys
+3360,False,False,Magrib,Home,16 i 17 anys
+4827,True,False,Espanyol,Home,14 i 15 anys
+1461,True,False,Espanyol,Home,16 i 17 anys
+4738,True,True,Espanyol,Home,16 i 17 anys
+3111,True,False,Espanyol,Home,16 i 17 anys
+2800,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4571,True,False,Espanyol,Home,16 i 17 anys
+772,False,False,Espanyol,Home,16 i 17 anys
+4279,True,False,Europa,Home,14 i 15 anys
+1251,False,False,Espanyol,Dona,16 i 17 anys
+4735,True,True,Espanyol,Home,16 i 17 anys
+181,False,False,Espanyol,Home,16 i 17 anys
+251,False,False,Espanyol,Home,14 i 15 anys
+3169,False,False,Espanyol,Home,16 i 17 anys
+4139,True,False,Magrib,Home,16 i 17 anys
+839,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+498,False,False,Espanyol,Home,16 i 17 anys
+4157,True,False,Espanyol,Home,16 i 17 anys
+2197,False,False,Espanyol,Home,16 i 17 anys
+1204,False,False,Espanyol,Home,16 i 17 anys
+2071,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+1325,True,False,Espanyol,Home,14 i 15 anys
+3126,True,False,Centre i Sud Amèrica,Home,14 i 15 anys
+1560,False,False,Espanyol,Home,16 i 17 anys
+4032,True,False,Espanyol,Home,16 i 17 anys
+606,True,False,Magrib,Home,14 i 15 anys
+4757,True,False,Magrib,Home,14 i 15 anys
+3445,False,False,Espanyol,Home,16 i 17 anys
+3443,False,False,Espanyol,Home,16 i 17 anys
+2994,False,False,Espanyol,Dona,14 i 15 anys
+1261,False,False,Espanyol,Home,16 i 17 anys
+552,True,False,Espanyol,Home,14 i 15 anys
+4236,True,False,Espanyol,Home,16 i 17 anys
+3069,False,False,Espanyol,Home,16 i 17 anys
+2613,False,False,Magrib,Home,16 i 17 anys
+2521,False,False,Espanyol,Home,16 i 17 anys
+4478,False,False,Europa,Home,16 i 17 anys
+3710,False,False,Espanyol,Home,16 i 17 anys
+4791,False,False,Espanyol,Dona,14 i 15 anys
+4639,False,False,Espanyol,Home,16 i 17 anys
+887,False,False,Centre i Sud Amèrica,Dona,16 i 17 anys
+2545,False,False,Centre i Sud Amèrica,Dona,16 i 17 anys
+2114,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+1621,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+3484,False,False,Espanyol,Home,16 i 17 anys
+2003,False,False,Espanyol,Home,16 i 17 anys
+2482,False,False,Espanyol,Home,14 i 15 anys
+2915,True,False,Magrib,Home,16 i 17 anys
+1666,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+2149,True,False,Espanyol,Dona,14 i 15 anys
+4647,False,False,Magrib,Home,16 i 17 anys
+2400,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+1558,False,False,Europa,Home,16 i 17 anys
+1656,True,False,Espanyol,Dona,14 i 15 anys
+1809,False,False,Espanyol,Home,16 i 17 anys
+2872,True,False,Espanyol,Home,16 i 17 anys
+2846,False,False,Espanyol,Home,16 i 17 anys
+1039,True,False,Espanyol,Dona,16 i 17 anys
+2459,False,False,Europa,Home,16 i 17 anys
+1607,True,False,Espanyol,Home,16 i 17 anys
+3717,False,False,Magrib,Home,16 i 17 anys
+1185,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+2858,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4118,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+3846,True,False,Centre i Sud Amèrica,Home,14 i 15 anys
+4668,False,False,Espanyol,Home,16 i 17 anys
+2895,False,False,Espanyol,Home,16 i 17 anys
+4055,False,False,Europa,Home,16 i 17 anys
+2137,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4549,False,False,Espanyol,Home,14 i 15 anys
+3240,False,False,Espanyol,Home,16 i 17 anys
+1194,False,False,Europa,Dona,16 i 17 anys
+559,False,True,Espanyol,Dona,14 i 15 anys
+563,False,False,Espanyol,Dona,14 i 15 anys
+1630,False,False,Espanyol,Home,16 i 17 anys
+2450,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+3012,True,False,Espanyol,Dona,16 i 17 anys
+4720,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+3571,False,False,Espanyol,Home,14 i 15 anys
+394,False,False,Espanyol,Home,16 i 17 anys
+477,False,True,Espanyol,Home,16 i 17 anys
+873,True,False,Espanyol,Home,14 i 15 anys
+1379,False,True,Magrib,Home,14 i 15 anys
+2298,True,True,Centre i Sud Amèrica,Home,14 i 15 anys
+607,False,False,Espanyol,Home,16 i 17 anys
+2689,False,False,Espanyol,Home,16 i 17 anys
+4547,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+325,False,False,Espanyol,Home,16 i 17 anys
+466,True,False,Espanyol,Home,16 i 17 anys
+30,False,False,Espanyol,Home,16 i 17 anys
+4086,False,False,Espanyol,Home,16 i 17 anys
+594,False,False,Espanyol,Home,16 i 17 anys
+837,False,True,Espanyol,Home,16 i 17 anys
+4814,False,False,Espanyol,Home,16 i 17 anys
+800,False,False,Europa,Dona,16 i 17 anys
+1524,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4759,False,True,Espanyol,Home,16 i 17 anys
+2798,True,True,Espanyol,Home,16 i 17 anys
+744,False,True,Espanyol,Home,16 i 17 anys
+1645,False,False,Espanyol,Home,16 i 17 anys
+4233,False,False,Magrib,Home,16 i 17 anys
+2565,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+3806,False,False,Espanyol,Home,16 i 17 anys
+1759,False,False,Espanyol,Home,14 i 15 anys
+3672,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+2666,True,False,Espanyol,Dona,16 i 17 anys
+960,False,False,Centre i Sud Amèrica,Dona,16 i 17 anys
+2357,False,False,Magrib,Home,16 i 17 anys
+1933,False,False,Espanyol,Home,14 i 15 anys
+2287,False,False,Magrib,Home,14 i 15 anys
+1740,False,False,Espanyol,Home,16 i 17 anys
+4792,False,False,Espanyol,Dona,16 i 17 anys
+2315,False,False,Europa,Home,16 i 17 anys
+547,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+3755,True,False,Espanyol,Home,16 i 17 anys
+3030,False,False,Europa,Home,14 i 15 anys
+4835,False,False,Espanyol,Dona,16 i 17 anys
+608,False,False,Espanyol,Home,16 i 17 anys
+1009,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+464,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+4576,True,True,Espanyol,Home,14 i 15 anys
+2033,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+2701,False,False,Espanyol,Home,14 i 15 anys
+2103,True,False,Espanyol,Home,16 i 17 anys
+3357,False,False,Espanyol,Home,14 i 15 anys
+3744,False,False,Espanyol,Home,16 i 17 anys
+4270,False,True,Espanyol,Home,14 i 15 anys
+2004,False,False,Espanyol,Home,16 i 17 anys
+714,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+1278,True,False,Espanyol,Home,16 i 17 anys
+2184,False,False,Espanyol,Home,16 i 17 anys
+4580,False,False,Espanyol,Home,16 i 17 anys
+1248,False,False,Espanyol,Home,16 i 17 anys
+1997,False,False,Magrib,Home,16 i 17 anys
+3167,False,False,Espanyol,Home,16 i 17 anys
+4179,False,False,Espanyol,Home,16 i 17 anys
+2634,False,False,Centre i Sud Amèrica,Dona,16 i 17 anys
+2556,False,False,Espanyol,Home,14 i 15 anys
+2435,False,False,Espanyol,Home,16 i 17 anys
+1715,False,False,Espanyol,Home,16 i 17 anys
+2938,False,False,Espanyol,Home,16 i 17 anys
+1183,False,False,Espanyol,Dona,16 i 17 anys
+4640,True,False,Espanyol,Home,16 i 17 anys
+1797,False,False,Espanyol,Dona,14 i 15 anys
+3685,False,True,Espanyol,Dona,16 i 17 anys
+2700,False,False,Magrib,Home,14 i 15 anys
+3365,False,False,Espanyol,Dona,16 i 17 anys
+1684,False,False,Espanyol,Home,14 i 15 anys
+818,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+2959,False,False,Magrib,Home,16 i 17 anys
+1350,False,False,Espanyol,Home,16 i 17 anys
+75,False,False,Espanyol,Home,14 i 15 anys
+1692,False,False,Espanyol,Home,16 i 17 anys
+2428,False,False,Espanyol,Dona,14 i 15 anys
+525,False,False,Magrib,Home,16 i 17 anys
+1763,False,False,Espanyol,Home,16 i 17 anys
+1110,False,False,Espanyol,Home,16 i 17 anys
+3153,False,False,Espanyol,Home,16 i 17 anys
+3608,False,False,Magrib,Home,16 i 17 anys
+1960,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+90,True,False,Espanyol,Home,16 i 17 anys
+4346,True,True,Espanyol,Home,16 i 17 anys
+314,False,False,Espanyol,Home,16 i 17 anys
+4407,False,False,Espanyol,Home,16 i 17 anys
+362,False,False,Espanyol,Home,16 i 17 anys
+405,True,False,Espanyol,Home,14 i 15 anys
+1156,False,False,Espanyol,Dona,14 i 15 anys
+4336,False,False,Espanyol,Home,16 i 17 anys
+1544,False,True,Espanyol,Home,16 i 17 anys
+4418,False,False,Espanyol,Home,16 i 17 anys
+3895,False,False,Espanyol,Home,16 i 17 anys
+636,False,False,Magrib,Home,16 i 17 anys
+4829,False,False,Espanyol,Home,16 i 17 anys
+1412,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4625,False,False,Espanyol,Home,16 i 17 anys
+637,False,False,Espanyol,Home,14 i 15 anys
+4598,False,False,Espanyol,Dona,16 i 17 anys
+1104,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+1758,False,False,Espanyol,Home,16 i 17 anys
+3840,False,False,Espanyol,Home,16 i 17 anys
+3618,False,False,Espanyol,Home,16 i 17 anys
+2246,False,False,Espanyol,Home,14 i 15 anys
+3160,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+3262,False,False,Espanyol,Home,14 i 15 anys
+976,False,False,Espanyol,Dona,14 i 15 anys
+3757,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+2841,False,False,Espanyol,Home,16 i 17 anys
+567,False,False,Espanyol,Home,16 i 17 anys
+3226,False,False,Espanyol,Home,16 i 17 anys
+1862,False,False,Espanyol,Dona,16 i 17 anys
+1751,False,False,Europa,Home,16 i 17 anys
+2175,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+1603,False,False,Magrib,Home,16 i 17 anys
+89,False,False,Magrib,Home,14 i 15 anys
+114,False,True,Espanyol,Home,16 i 17 anys
+2574,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+3312,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+1888,False,False,Espanyol,Dona,14 i 15 anys
+4502,False,False,Espanyol,Home,16 i 17 anys
+2335,False,False,Magrib,Home,16 i 17 anys
+3385,False,False,Espanyol,Home,16 i 17 anys
+3604,False,False,Espanyol,Home,16 i 17 anys
+229,True,False,Espanyol,Home,14 i 15 anys
+4597,True,False,Espanyol,Home,14 i 15 anys
+2013,False,True,Europa,Home,14 i 15 anys
+602,False,False,Espanyol,Home,16 i 17 anys
+4053,False,False,Espanyol,Dona,16 i 17 anys
+4356,False,False,Espanyol,Dona,16 i 17 anys
+1747,False,True,Magrib,Home,16 i 17 anys
+4463,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+2912,False,False,Espanyol,Home,14 i 15 anys
+4024,False,False,Espanyol,Home,14 i 15 anys
+4629,False,False,Espanyol,Dona,16 i 17 anys
+4602,False,False,Magrib,Home,16 i 17 anys
+1669,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+508,False,False,Espanyol,Home,16 i 17 anys
+1411,False,False,Magrib,Home,14 i 15 anys
+3189,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+3713,False,False,Espanyol,Home,16 i 17 anys
+1479,False,False,Espanyol,Dona,16 i 17 anys
+4451,False,False,Magrib,Home,16 i 17 anys
+3489,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+3336,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4417,False,False,Magrib,Home,16 i 17 anys
+1430,False,False,Espanyol,Home,14 i 15 anys
+2933,False,False,Espanyol,Home,14 i 15 anys
+1182,False,False,Espanyol,Dona,14 i 15 anys
+2126,False,False,Altres,Home,14 i 15 anys
+1687,False,False,Espanyol,Home,16 i 17 anys
+4663,False,False,Espanyol,Home,16 i 17 anys
+105,False,False,Espanyol,Home,16 i 17 anys
+4334,False,False,Espanyol,Dona,16 i 17 anys
+1502,False,False,Espanyol,Dona,14 i 15 anys
+4664,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+128,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+2902,False,False,Espanyol,Home,16 i 17 anys
+4805,False,False,Espanyol,Home,16 i 17 anys
+2462,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+2906,False,True,Magrib,Home,16 i 17 anys
+1119,False,False,Espanyol,Dona,16 i 17 anys
+2983,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+939,False,True,Espanyol,Home,16 i 17 anys
+1195,False,False,Europa,Dona,14 i 15 anys
+616,False,False,Espanyol,Home,16 i 17 anys
+2808,False,False,Espanyol,Home,16 i 17 anys
+3899,False,False,Espanyol,Home,16 i 17 anys
+4644,False,False,Espanyol,Home,16 i 17 anys
+2017,False,True,Espanyol,Home,16 i 17 anys
+1595,False,False,Espanyol,Home,16 i 17 anys
+4490,False,False,Espanyol,Home,16 i 17 anys
+4249,False,False,Centre i Sud Amèrica,Dona,16 i 17 anys
+2399,False,False,Espanyol,Home,16 i 17 anys
+1801,False,False,Centre i Sud Amèrica,Dona,16 i 17 anys
+3497,False,True,Espanyol,Home,
+4783,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+2006,False,False,Espanyol,Home,16 i 17 anys
+2802,False,False,Espanyol,Home,16 i 17 anys
+1226,False,False,Espanyol,Dona,16 i 17 anys
+368,False,False,Europa,Home,16 i 17 anys
+4705,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+1677,False,False,Centre i Sud Amèrica,Dona,16 i 17 anys
+258,False,False,Espanyol,Home,16 i 17 anys
+2049,False,False,Espanyol,Home,16 i 17 anys
+4012,False,False,Espanyol,Home,14 i 15 anys
+169,False,False,Espanyol,Dona,14 i 15 anys
+445,False,False,Espanyol,Home,16 i 17 anys
+510,False,False,Espanyol,Home,14 i 15 anys
+896,False,False,Espanyol,Home,14 i 15 anys
+2474,False,False,Espanyol,Dona,16 i 17 anys
+3067,False,False,Espanyol,Home,14 i 15 anys
+2643,False,False,Magrib,Home,14 i 15 anys
+197,False,True,Espanyol,Home,16 i 17 anys
+806,False,False,Espanyol,Home,14 i 15 anys
+3646,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+2884,False,False,Espanyol,Home,16 i 17 anys
+902,False,False,Espanyol,Home,16 i 17 anys
+4301,False,False,Espanyol,Home,16 i 17 anys
+4788,False,False,Espanyol,Home,16 i 17 anys
+2484,False,False,Espanyol,Home,16 i 17 anys
+807,False,False,Espanyol,Home,14 i 15 anys
+4259,False,False,Magrib,Home,16 i 17 anys
+2367,True,False,Espanyol,Home,16 i 17 anys
+4811,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+4352,True,True,Espanyol,Home,14 i 15 anys
+3425,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+3795,True,True,Centre i Sud Amèrica,Home,16 i 17 anys
+4559,True,True,Magrib,Home,14 i 15 anys
+521,False,True,Espanyol,Home,14 i 15 anys
+4643,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+3481,False,True,Espanyol,Home,16 i 17 anys
+80,True,True,Magrib,Home,14 i 15 anys
+4807,True,True,Espanyol,Home,16 i 17 anys
+4700,False,True,Espanyol,Home,16 i 17 anys
+663,True,True,Espanyol,Home,14 i 15 anys
+3140,True,True,Espanyol,Home,14 i 15 anys
+1011,False,True,Espanyol,Home,14 i 15 anys
+1083,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+2523,False,True,Espanyol,Home,14 i 15 anys
+4772,False,True,Espanyol,Dona,14 i 15 anys
+1772,False,True,Espanyol,Home,16 i 17 anys
+1388,False,True,Altres,Home,16 i 17 anys
+3236,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+274,False,True,Espanyol,Home,14 i 15 anys
+2293,False,True,Espanyol,Home,14 i 15 anys
+22,False,True,Europa,Home,14 i 15 anys
+2130,False,True,Espanyol,Home,14 i 15 anys
+2530,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+2001,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+4493,False,True,Espanyol,Home,16 i 17 anys
+1123,False,True,Espanyol,Home,16 i 17 anys
+1608,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+2153,False,True,Espanyol,Home,16 i 17 anys
+4823,False,True,Espanyol,Home,16 i 17 anys
+4188,False,True,Espanyol,Dona,14 i 15 anys
+1969,False,True,Centre i Sud Amèrica,Home,14 i 15 anys
+4828,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+1410,False,True,Espanyol,Home,14 i 15 anys
+3444,False,True,Espanyol,Home,14 i 15 anys
+4070,False,True,Centre i Sud Amèrica,Home,16 i 17 anys
+1653,False,True,Centre i Sud Amèrica,Home,14 i 15 anys
+1233,False,True,Espanyol,Home,14 i 15 anys
+906,False,True,Magrib,Home,16 i 17 anys
+2788,False,True,Espanyol,Home,14 i 15 anys
+3144,True,False,Espanyol,Home,16 i 17 anys
+3165,False,False,Espanyol,Home,16 i 17 anys
+499,True,False,Espanyol,Home,16 i 17 anys
+4028,False,False,Espanyol,Home,16 i 17 anys
+4744,True,False,Espanyol,Dona,16 i 17 anys
+2249,True,False,Espanyol,Dona,14 i 15 anys
+693,False,False,Espanyol,Home,16 i 17 anys
+3652,True,False,Espanyol,Home,14 i 15 anys
+707,True,True,Espanyol,Home,14 i 15 anys
+331,False,False,Altres,Home,14 i 15 anys
+1120,True,False,Espanyol,Home,16 i 17 anys
+2608,False,False,Espanyol,Home,16 i 17 anys
+164,False,False,Espanyol,Home,16 i 17 anys
+421,False,False,Espanyol,Home,
+2709,False,False,Espanyol,Home,14 i 15 anys
+3860,True,False,Espanyol,Home,16 i 17 anys
+2380,False,False,Espanyol,Home,
+2278,True,False,Altres,Home,16 i 17 anys
+3552,True,False,Espanyol,Home,16 i 17 anys
+4429,True,False,Espanyol,Dona,14 i 15 anys
+4432,True,False,Espanyol,Dona,14 i 15 anys
+239,False,False,Europa,Home,16 i 17 anys
+2083,True,False,Magrib,Home,16 i 17 anys
+1435,False,False,Espanyol,Home,14 i 15 anys
+4620,False,False,Espanyol,Home,16 i 17 anys
+4330,True,False,Centre i Sud Amèrica,Home,16 i 17 anys
+3047,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4760,False,False,Espanyol,Home,14 i 15 anys
+3822,True,False,Espanyol,Home,16 i 17 anys
+2812,False,False,Espanyol,Home,16 i 17 anys
+4555,False,False,Espanyol,Home,16 i 17 anys
+2810,False,False,Espanyol,Home,16 i 17 anys
+2809,True,False,Espanyol,Home,16 i 17 anys
+1574,True,False,Espanyol,Home,16 i 17 anys
+4013,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4773,False,False,Espanyol,Home,14 i 15 anys
+202,False,False,Espanyol,Home,14 i 15 anys
+1854,False,False,Espanyol,Home,14 i 15 anys
+4710,False,False,Espanyol,Home,14 i 15 anys
+1418,False,False,Centre i Sud Amèrica,Home,
+1053,False,False,Espanyol,Home,14 i 15 anys
+3080,False,False,Espanyol,Dona,16 i 17 anys
+2600,False,False,Magrib,Home,16 i 17 anys
+3872,False,False,Espanyol,Home,16 i 17 anys
+310,False,False,Espanyol,Home,14 i 15 anys
+2112,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+4322,False,False,Espanyol,Home,16 i 17 anys
+1148,False,False,Espanyol,Home,16 i 17 anys
+168,False,False,Espanyol,Home,16 i 17 anys
+1771,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+1526,False,False,Espanyol,Home,16 i 17 anys
+747,False,False,Magrib,Home,16 i 17 anys
+2853,False,False,Centre i Sud Amèrica,Dona,14 i 15 anys
+400,False,False,Espanyol,Home,16 i 17 anys
+1983,False,False,Espanyol,Dona,16 i 17 anys
+1690,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4809,False,False,Altres,Home,16 i 17 anys
+1298,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+952,True,False,Espanyol,Home,14 i 15 anys
+3086,True,False,Espanyol,Home,16 i 17 anys
+2384,False,False,Espanyol,Home,16 i 17 anys
+195,False,False,Espanyol,Home,16 i 17 anys
+2358,False,False,Espanyol,Home,16 i 17 anys
+4500,False,False,Espanyol,Home,16 i 17 anys
+1378,False,False,Espanyol,Home,16 i 17 anys
+2353,False,False,Espanyol,Home,14 i 15 anys
+1745,False,False,Espanyol,Home,14 i 15 anys
+375,False,False,Espanyol,Home,16 i 17 anys
+4240,False,False,Espanyol,Dona,14 i 15 anys
+2475,False,False,Centre i Sud Amèrica,Dona,14 i 15 anys
+97,False,False,Espanyol,Dona,14 i 15 anys
+1600,False,False,Espanyol,Home,16 i 17 anys
+4600,False,False,Espanyol,Home,16 i 17 anys
+729,True,False,Espanyol,Home,16 i 17 anys
+2047,False,False,Espanyol,Home,16 i 17 anys
+2510,False,False,Espanyol,Home,16 i 17 anys
+512,False,False,Espanyol,Home,16 i 17 anys
+4375,False,False,Espanyol,Home,14 i 15 anys
+2479,False,False,Espanyol,Home,14 i 15 anys
+4755,False,False,Espanyol,Home,16 i 17 anys
+54,False,False,Espanyol,Home,16 i 17 anys
+2087,False,False,Espanyol,Dona,16 i 17 anys
+1429,False,False,Europa,Dona,16 i 17 anys
+2369,False,False,Europa,Dona,16 i 17 anys
+825,False,False,Espanyol,Home,14 i 15 anys
+196,False,False,Espanyol,Home,
+3430,False,False,Espanyol,Home,16 i 17 anys
+4194,False,False,Espanyol,Home,16 i 17 anys
+3196,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4724,True,False,Espanyol,Home,16 i 17 anys
+913,False,False,Espanyol,Home,14 i 15 anys
+265,False,False,Europa,Home,16 i 17 anys
+158,False,False,Magrib,Home,16 i 17 anys
+3292,False,False,Espanyol,Home,14 i 15 anys
+1774,False,False,Espanyol,Home,14 i 15 anys
+428,False,False,Espanyol,Dona,14 i 15 anys
+1663,False,False,Espanyol,Dona,14 i 15 anys
+3062,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+2688,False,False,Espanyol,Home,16 i 17 anys
+2803,False,False,Espanyol,Home,16 i 17 anys
+3286,False,False,Espanyol,Home,16 i 17 anys
+4748,False,False,Espanyol,Home,16 i 17 anys
+1363,False,False,Espanyol,Home,16 i 17 anys
+1306,False,False,Espanyol,Home,16 i 17 anys
+3156,False,False,Espanyol,Dona,16 i 17 anys
+4679,False,False,Magrib,Home,16 i 17 anys
+953,False,False,Centre i Sud Amèrica,Dona,16 i 17 anys
+3354,False,False,Espanyol,Home,16 i 17 anys
+3661,False,False,Espanyol,Dona,16 i 17 anys
+1622,False,False,Espanyol,Dona,16 i 17 anys
+1604,False,False,Europa,Home,16 i 17 anys
+2223,False,False,Altres,Home,16 i 17 anys
+4745,False,False,Espanyol,Dona,14 i 15 anys
+4763,False,False,Espanyol,Dona,14 i 15 anys
+1987,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+1236,False,True,Espanyol,Home,16 i 17 anys
+2117,False,False,Espanyol,Home,16 i 17 anys
+2295,False,False,Espanyol,Dona,16 i 17 anys
+3582,False,False,Magrib,Home,16 i 17 anys
+2708,False,False,Espanyol,Home,14 i 15 anys
+4437,False,False,Espanyol,Dona,16 i 17 anys
+3275,False,False,Magrib,Home,16 i 17 anys
+4366,False,False,Espanyol,Home,14 i 15 anys
+799,False,False,Europa,Home,14 i 15 anys
+2024,False,False,Espanyol,Home,14 i 15 anys
+201,False,False,Espanyol,Home,14 i 15 anys
+3836,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+3007,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+2212,False,False,Altres,Home,16 i 17 anys
+2206,False,False,Altres,Home,16 i 17 anys
+4224,False,False,Espanyol,Home,14 i 15 anys
+2931,False,False,Espanyol,Home,14 i 15 anys
+4223,False,False,Espanyol,Home,16 i 17 anys
+1337,False,False,Espanyol,Dona,16 i 17 anys
+2121,False,False,Altres,Home,16 i 17 anys
+2124,False,False,Altres,Home,16 i 17 anys
+4681,False,False,Espanyol,Home,14 i 15 anys
+2157,False,False,Espanyol,Home,14 i 15 anys
+1122,False,False,Espanyol,Dona,14 i 15 anys
+1577,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+149,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+2127,False,False,Europa,Home,16 i 17 anys
+2738,False,False,Magrib,Home,16 i 17 anys
+1790,False,False,Centre i Sud Amèrica,Home,16 i 17 anys
+4021,True,False,Espanyol,Home,14 i 15 anys
+176,False,False,Espanyol,Home,14 i 15 anys
+4487,False,False,Espanyol,Home,14 i 15 anys
+3122,False,False,Espanyol,Home,16 i 17 anys
+764,False,False,Espanyol,Home,16 i 17 anys
+3636,False,False,Espanyol,Home,16 i 17 anys
+3277,False,False,Espanyol,Home,16 i 17 anys
+926,False,False,Espanyol,Home,16 i 17 anys
+1651,False,False,Magrib,Home,16 i 17 anys
+871,False,False,Espanyol,Home,14 i 15 anys
+4769,False,True,Espanyol,Dona,14 i 15 anys
+4357,False,False,Centre i Sud Amèrica,Dona,16 i 17 anys
+1889,False,False,Espanyol,Home,16 i 17 anys
+966,False,False,Espanyol,Home,16 i 17 anys
+875,False,False,Europa,Home,14 i 15 anys
+3547,False,False,Altres,Home,14 i 15 anys
+985,False,False,Centre i Sud Amèrica,Home,14 i 15 anys
+2305,False,False,Espanyol,Home,16 i 17 anys
+4231,False,False,Espanyol,Home,16 i 17 anys
